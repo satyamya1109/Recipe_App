@@ -1,0 +1,1 @@
+This is a Recipe search application that is developed using vanilla JavaScript.
